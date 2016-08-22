@@ -1,1 +1,5 @@
 *.zip
+*.css.map
+.sass-cache/
+assets/css/**
+!assets/css/font-awesome.min.css

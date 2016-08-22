@@ -1026,7 +1026,7 @@
 
 /* One */
 
-	#one {
+	#one, #welcome {
 		&:before {
 			background-image: url('../../images/banner.jpg');
 			background-position: top right;
@@ -1226,7 +1226,7 @@
 
 		/* One */
 
-			#one {
+			#one, #welcome {
 				&:before {
 					height: 10em;
 				}
@@ -1454,7 +1454,7 @@
 
 		/* One */
 
-			#one {
+			#one, #welcome {
 				&:before {
 					height: 7em;
 				}
